@@ -40,6 +40,7 @@ Submit a pull request with a detailed description of your changes.
 
 # Showcase:
 Check out a demo of Rapid Strike in action on YouTube.
+https://www.youtube.com/watch?v=S-A_6l3iqBo
 
 # Future Plans:
 Enhance environmental details.
